@@ -1,0 +1,16 @@
+Image and Attributes.....
+
+Note- Image tag is not a close tag
+
+#How to write in html code for upload any image on website..
+.
+ 1. <img src= "Example-url"{Image File path} alt="example"{Image File description} height="??" width="">
+
+Note: There are many Tag inside the <img> atributes.This is not a containar attributes.
+      These function are given below:
+				1. src="We have to write the Image file path over here".
+				2.alt="We have to write the Image file description over here"
+				3. We can give the image size by height="" and width="" tag.
+
+example: <img src="pic/Maruf.jpg.jpg" alt="Maruf" title="Maruf" height="300" width="500">
+

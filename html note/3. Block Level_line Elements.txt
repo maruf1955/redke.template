@@ -1,0 +1,23 @@
+Block Level Elements...........
+
+1. <h1>--------<h6>
+ = Text size hi is bigest then h2 and go on
+2.<p>
+  = This tag is using for write any paragraph in line to line
+3.<hr> 
+  = Hr create a line on the website 
+  <hr width="??">
+4.<div class=">
+= we can write any statement without using any tag under the tag.
+
+  </div>
+
+Inline Elements...............
+
+1
+2. <a>
+
+4. <span></span>
+
+  = It is responsible for add one string(whatever) with others.
+  example: <p><span>This is </span>Maruf</p> == This is Maruf

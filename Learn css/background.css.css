@@ -1,0 +1,15 @@
+h2{
+  background: rgba(255,102,0);
+  /*border-color:green;
+  border-style: solid;*/
+  /*border: 3px solid green;*/
+  border: 2px dashed green;
+}
+
+
+body{
+  /*background:#7FFFD4;*/
+  background: url(http://4everstatic.com/obrazky/850xX/abstraktne/kreslena-vila-194230.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}

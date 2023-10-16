@@ -1,0 +1,7 @@
+HTML: It responsible for all content (image, button, div....)
+
+CSS: It is responsible for the presentation, styling and placement of content prepared with 
+     HTML to the desired position on the screen.
+
+javaScript- It is responsible for the interaction between the user and the web site
+

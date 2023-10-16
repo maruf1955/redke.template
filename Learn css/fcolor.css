@@ -1,0 +1,18 @@
+h1{
+  font-family: "Arial";
+  font-size: 40px;
+  text-align: center;
+  text-decoration: overline;
+
+}
+p{
+  font-family: "Times and New Roman";
+  font-style: italic;
+  font-size: 1.7em;
+  text-decoration: underline;
+
+
+}
+span{
+  font-weight: bold;
+}

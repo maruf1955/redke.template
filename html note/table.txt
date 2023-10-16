@@ -1,0 +1,30 @@
+## Table Tags
+
+1. <table>
+= <table border="??" width="??" height="?">
+
+2.<tr>
+=table row
+
+3.<th>
+= table headee]r
+
+4.<td>
+=table data
+
+5. <thead>
+
+6.<tbody>
+
+7. border=
+= line size
+
+Most important 
+
+8. If we will want to add any link on our webpage then we have to use <a herf=""> tag
+
+example:
+   
+<th><a href="https://www.nutritionadvance.com/healthy-foods/types-of-fruit/">Fruits</a></th>
+
+<th><a href="https://www.nutritionadvance.com/healthy-foods/types-of-vegetables/">Vegitables</a></th>

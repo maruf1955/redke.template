@@ -1,0 +1,30 @@
+How to create a diffrent list in html.......
+
+1. There are three kinds of html list.These are..
+	1. Unordered list
+	2. Ordered list
+	3. Description List
+
+
+#Unordered list...
+ <ul type="circle"> {This type tag is responsible for "o" like 0 Tomato 0 onion.so we can use alphabet,number,roman number etc}
+  <li>Tea</li>
+     <li>hot</t>
+     <li>cool</li>
+  <li>coffee</li>
+  <li>juice</li>
+  <li>water</li>
+ </ul>
+
+# Ordered List...
+
+= jsut write ul insted ol like <ol type="A or 1">
+
+# Description List
+
+= <dl>
+   <dt>HTML</dt>
+   <dd>Hyper text Markup Language</dd>
+   <dt>css</dt>
+   <dd>CasCading Style </dd>
+  </dl>

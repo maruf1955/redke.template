@@ -1,0 +1,58 @@
+HTML(Hyper text Markup Language) COURSE.................
+
+1. What is internet?
+= The set of computer network.
+
+2.Why html?
+
+= Html codes the structure of a website..
+
+3.why css?
+
+= css(Cascading Style sheets) responsible for Shaping a website.It dictates(set) it's style
+
+4.java script?
+
+= js enables its interactivity.It will help to create a web pages that are dynamic and inter active....(yout can use this language for application disign, animation and game development.)
+
+= Interestingly, Js usher   ed (suchona kora hoyeche) in the age of animated websites with adaptive content.
+
+
+....................................Basic Tags............................................
+
+## <!DOCTYPE html>
+
+   #<html lang="en"{lang means language} dir="ltr" {direction english alphabet is left to write & arabic is right to left}>
+
+   #<head>
+	<meta= charset="utf-8"> {This is a method which resposible for writing any language like if we want to write bangla into the body}
+
+   #<title>First porject</title> {Webpage title}
+
+   #<body> { code start from here}
+
+   #<h1>someting what you want to write in your webpage </h1> {Fornt big to small}
+   <h2>someting what you want to write in your webpage</h2>
+   <h3>someting what you want to write in your webpage</h3>
+   <h4>someting what you want to write in your webpage</h4>
+   <h5>someting what you want to write in your webpage</h5>
+   <h6>someting what you want to write in your webpage</h6>
+
+   #<p>This is a paragraph</p>
+
+   #<strong>bold</strong>
+   <b>bold</b>
+	
+   #<em>Italic</em>
+    <i>Italic</i>
+
+   #<u>Underline</u>
+
+
+
+
+9. using for line break-----  <br>
+10.
+
+
+
